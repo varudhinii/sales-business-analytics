@@ -27,4 +27,4 @@ This project performs end-to-end sales data analysis on a synthetic retail datas
 - Streamlit
 - Scikit-Surprise
 
-## Project Structure
+
