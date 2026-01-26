@@ -1,4 +1,4 @@
-# Sales Business Analytics & Dashboard [instagram: @velvet.crumbss]
+# Sales Business Analytics & Dashboard [Instagram: @velvet.crumbss]
 
 ## Overview
 This project performs end-to-end sales data analysis on a synthetic retail dataset to extract meaningful business insights and KPIs. It includes data cleaning, exploratory data analysis (EDA), business intelligence metrics, and an interactive Streamlit dashboard.
